@@ -36,7 +36,7 @@ export function Logo({ compact = false }: { compact?: boolean }) {
       {!compact && (
         <div className="leading-tight">
           <p className="font-display text-base font-bold text-white">
-            StudyMCP <span className="gradient-text">AI</span>
+            NoteMinds <span className="gradient-text">AI</span>
           </p>
           <p className="text-[10px] uppercase tracking-[0.2em] text-slate-500">Personalised study</p>
         </div>

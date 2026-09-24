@@ -15,7 +15,7 @@ function describeDatabase(url: string) {
 }
 
 async function start() {
-  logger.info('Starting StudyMCP AI backend', {
+  logger.info('Starting NoteMinds AI backend', {
     node: process.version,
     env: env.NODE_ENV,
     port: env.PORT,
@@ -25,7 +25,7 @@ async function start() {
 
   const app = createApp();
   const server = app.listen(env.PORT, () => {
-    logger.info(`StudyMCP AI backend listening on http://localhost:${env.PORT} (${env.NODE_ENV})`);
+    logger.info(`NoteMinds AI backend listening on http://localhost:${env.PORT} (${env.NODE_ENV})`);
   });
 
   // Connect to PostgreSQL (with a timeout so a wrong DATABASE_URL is reported clearly).

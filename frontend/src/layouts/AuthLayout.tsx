@@ -25,7 +25,7 @@ export default function AuthLayout() {
             </div>
             <div>
               <p className="font-display text-lg font-bold text-white">
-                StudyMCP <span className="gradient-text">AI</span>
+                NoteMinds <span className="gradient-text">AI</span>
               </p>
               <p className="text-xs uppercase tracking-[0.2em] text-slate-500">GenAI + Model Context Protocol</p>
             </div>
@@ -71,7 +71,7 @@ export default function AuthLayout() {
                 <BrainCircuit className="h-5 w-5 text-white" />
               </div>
               <p className="font-display text-lg font-bold text-white">
-                StudyMCP <span className="gradient-text">AI</span>
+                NoteMinds <span className="gradient-text">AI</span>
               </p>
             </div>
             <div className="glass-strong gradient-border p-7 sm:p-8">

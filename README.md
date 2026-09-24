@@ -1,13 +1,13 @@
-# StudyMCP AI
+# NoteMinds AI
 
 **A GenAI-powered personalised study assistant using the Model Context Protocol (MCP).**
 
-StudyMCP AI is a full-stack web application for college students. Gemini answers questions
+NoteMinds AI is a full-stack web application for college students. Gemini answers questions
 from the student's *own* uploaded notes, generates quizzes, tracks progress and recommends what to
 study next. The AI never receives the database directly: every piece of student data reaches Gemini
 through **MCP tools** served by a real MCP server, scoped to the authenticated user.
 
-> One-line viva summary: *StudyMCP AI is a personalised GenAI study assistant where Gemini uses MCP to
+> One-line viva summary: *NoteMinds AI is a personalised GenAI study assistant where Gemini uses MCP to
 > securely access student-specific tools and data such as notes, subjects, quizzes and progress. It can
 > answer questions from notes, generate quizzes, track performance and recommend what to study next.*
 

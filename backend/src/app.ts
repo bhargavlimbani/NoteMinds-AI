@@ -39,7 +39,7 @@ export function createApp() {
   }
 
   app.use('/api', apiLimiter, api);
-  app.get('/', (_req, res) => res.json({ success: true, data: { name: 'StudyMCP AI API', docs: '/api/health' } }));
+  app.get('/', (_req, res) => res.json({ success: true, data: { name: 'NoteMinds AI API', docs: '/api/health' } }));
 
   app.use(notFoundHandler);
   app.use(errorHandler);

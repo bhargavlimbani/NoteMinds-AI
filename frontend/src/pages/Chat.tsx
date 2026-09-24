@@ -144,7 +144,7 @@ export default function ChatPage() {
             <BrainCircuit className="h-4.5 w-4.5" />
           </div>
           <div className="min-w-0">
-            <p className="truncate text-sm font-semibold text-white">{conversations.find((c) => c.id === conversationId)?.title ?? 'StudyMCP assistant'}</p>
+            <p className="truncate text-sm font-semibold text-white">{conversations.find((c) => c.id === conversationId)?.title ?? 'NoteMinds assistant'}</p>
             <p className="text-[11px] text-slate-500">Gemini · tools via Model Context Protocol · answers from your own notes</p>
           </div>
           <span className="ml-auto hidden items-center gap-1.5 rounded-full border border-emerald-400/30 bg-emerald-500/10 px-2.5 py-1 text-[11px] text-emerald-300 sm:flex">

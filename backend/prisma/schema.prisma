@@ -1,4 +1,4 @@
-// StudyMCP AI - database schema (PostgreSQL + Prisma ORM)
+// NoteMinds AI - database schema (PostgreSQL + Prisma ORM)
 
 generator client {
   provider = "prisma-client-js"

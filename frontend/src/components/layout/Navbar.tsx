@@ -45,7 +45,7 @@ export function Navbar({ onMenuClick }: NavbarProps) {
         </div>
 
         <div className="hidden lg:block">
-          <p className="text-xs uppercase tracking-[0.2em] text-slate-500">StudyMCP AI</p>
+          <p className="text-xs uppercase tracking-[0.2em] text-slate-500">NoteMinds AI</p>
           <h2 className="text-sm font-semibold text-white">{current?.label ?? 'Workspace'}</h2>
         </div>
 

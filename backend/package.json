@@ -1,9 +1,9 @@
 {
-  "name": "studymcp-backend",
+  "name": "noteminds-backend",
   "version": "1.0.0",
   "private": true,
   "type": "module",
-  "description": "StudyMCP AI backend - Express + Prisma + MCP + Gemini",
+  "description": "NoteMinds AI backend - Express + Prisma + MCP + Gemini",
   "main": "dist/server.js",
   "scripts": {
     "dev": "tsx watch src/server.ts",
