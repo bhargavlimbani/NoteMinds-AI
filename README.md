@@ -351,8 +351,26 @@ A ready-to-use blueprint is in `render.yaml`.
 
 ## 16. Screenshots
 
-> Add screenshots of the dashboard, subject detail, notes upload, AI chat with MCP badges, quiz and
-> recommendations pages here (`docs/screenshots/`).
+### Login Page
+![Login Page](docs/screenshots/login%20page.png)
+
+### Dashboard
+![Dashboard](docs/screenshots/dashboard.png)
+
+### AI Chat with MCP Badges
+![AI Chat with MCP Badges](docs/screenshots/AI%20Chat%20with%20MCP%20Badges.png)
+
+### Notes Upload
+![Notes Upload](docs/screenshots/Notes%20Upload.png)
+
+### Quiz
+![Quiz](docs/screenshots/Quiz.png)
+
+### Progress
+![Progress](docs/screenshots/Progress.png)
+
+### Recommendations
+![Recommendations](docs/screenshots/Recommendations.png)
 
 ---
 
